@@ -1,2 +1,2 @@
 # hello-world
-fu=first repo
+my first repo
